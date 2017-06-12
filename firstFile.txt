@@ -2,3 +2,4 @@ This is my first file from GIT client
 this is a commit from Kandasamy
 
 Modification in develop branch
+added a line from local 
