@@ -1,3 +1,0 @@
-This is a third test file in local 
-added a change in local using gitcleint
-adding a test line for feature1 branch
